@@ -1,3 +1,8 @@
+
+
+/************************Tag Selectors************************/
+
+
 body {
   background-color: #EAF6F6;
 }
@@ -16,4 +21,22 @@ hr {
 
 h3 {
   color: #66BFBF;
+}
+
+
+/*****************************CLASS SELECTORS*******************/
+
+.epoch {
+  height: 125px;
+  border-radius: 100%;
+
+}
+
+
+
+/***************************ID Selectors***********************/
+
+
+#heading {
+color: black;
 }
